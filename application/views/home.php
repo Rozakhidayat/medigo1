@@ -129,7 +129,7 @@
         
         </div>
 
-        <div class="d-flex justify-content-end m-5 flex-wrap">
+  <div class="d-flex justify-content-center m-5 flex-wrap">
   <div class="card" style="width: 18rem;">
     <img src="assets/img/card1.jpg" class="card-img-top" alt="...">
     <div class="card-body">
